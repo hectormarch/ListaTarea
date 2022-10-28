@@ -1,0 +1,14 @@
+.task
+{
+  border: 2px solid rgb(115, 115, 173);
+  margin: 20px 0;
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+
+}
+.task h3, .task p{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}

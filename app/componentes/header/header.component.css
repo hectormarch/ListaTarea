@@ -1,0 +1,10 @@
+header{
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.boton{
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 0;
+}
